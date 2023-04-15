@@ -55,6 +55,11 @@
 			</releases>
 		</repository>
 	</repositories>
+	<properties>
+		<java.version>11</java.version>
+		<!-- Other properties -->
+	</properties>
+
 	<pluginRepositories>
 		<pluginRepository>
 			<id>spring-milestones</id>
